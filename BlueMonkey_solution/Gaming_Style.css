@@ -1,0 +1,30 @@
+﻿body {
+  
+}
+
+h1{
+    color: lightskyblue;
+    font-family: Broadway;
+    font-size: 56px;
+}
+
+p{
+    font-family: Arial;
+}
+
+#square{
+    background-color: black;
+    width: 564px;
+    height: 560px;
+    margin: 0 auto;
+    border-color: yellow;
+}
+
+.1{
+    float: left;
+    clear: right;
+}
+.2{
+    float: right;
+    clear: left,
+}
