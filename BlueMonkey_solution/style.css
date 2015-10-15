@@ -1,3 +1,91 @@
-﻿body{
+﻿body {
+    background-image:url(backgroundpicture.png);background-repeat:repeat;
+}
+#background{
+    width:1100px;
+    min-height:500px;   
+}
 
+#loggotext{
+    color:black;  
+}
+
+#logotext {
+    height: 150px;
+    margin-left:30px;
+    margin-top:25px;  
+}
+
+#logotext img {
+    margin-left: 5px;
+    margin-top:-25px;
+    margin-bottom:-45px;
+}
+.slogan {
+    color: #ADD8E6;
+    left: 10px;
+    top: -65px;
+    font-weight: bold;
+    float: left;  
+}
+.logo {
+    height: 100px;
+    width: 250px;
+    float: left;
+}
+.big_heading{
+    font-family: Broadway;
+    color: #87CEFA;
+    text-align: center;
+    width: 600px;
+    float: left;
+    margin-top: 15px;   
+}
+#content-left{
+    width:500px;
+    height:400px;
+    color:lightskyblue;
+    float:left;
+    margin-left:40px;
+}
+#content-right{
+    width:500px;
+    height:400px;
+    color:lightskyblue;
+    margin-left:40px;
+    float:left;
+}
+#border-line{
+    border:dotted;
+    width:1100px;
+    height:1000px;
+}
+#footnote-left{
+    width:500px;
+    height:100px;
+    color:lightskyblue;
+    float:left;
+    margin-left:5px;
+}
+#footnote-right{
+    width:500px;
+    height:100px;
+    float:left;
+    color:lightskyblue;
+    margin-left:40px;
+}
+
+#hr-uper{
+    border:0;
+    width:113%;
+    background-color:lightskyblue;
+    height: 2px;
+    margin-top:-60px;
+}
+#hr-down{
+    border:0;
+    width:100%;
+    float:left;
+    background-color:lightskyblue;
+    margin-top:-60px;
 }

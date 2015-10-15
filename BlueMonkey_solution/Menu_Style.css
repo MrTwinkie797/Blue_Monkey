@@ -1,0 +1,49 @@
+body{
+    align-content:center;
+    background-color:#ffffff;
+    width: 750px;
+}
+
+html {
+       overflow-y: scroll;
+       overflow-x: scroll;
+}
+
+h1{
+    font-family: Arial;
+    color:lightskyblue;
+}
+
+
+#menu {
+    padding: 0;
+}
+
+#menu{
+    display: inline;
+}
+
+#menu a {
+    background-color:#6110de;
+    color: white;
+    font-family: Arial;
+    padding: 10px 40px;
+    text-decoration: none;
+    border-radius: 0px 0px 0px 0px;
+    margin: -2px;
+}
+
+#menu a:hover {
+    background-color:#fa8c05;
+}
+
+#Footer{
+    align-items:baseline;
+    display:block;
+    position: absolute;
+    border: double;
+    bottom: 0;
+    width: 750px;
+    height: 32px;
+    background: #bebcbc;
+}
