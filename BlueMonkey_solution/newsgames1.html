@@ -1,0 +1,136 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <link rel="stylesheet" href="news1style.css" type="text/css" />
+
+    <meta charset="utf-8" />
+
+    <title> Läsa om spel </title>
+</head>
+<body>
+    <div id="logotext">
+
+        <div class="logo">
+            <a href="index.html">
+                <img src="IMG/Blue Monkey.png" alt="en bild" width="130" height="110"><!--Logo picture-->
+                <h6><span class="slogan">Blue Monkey Entertinment</span></h6><!--Logo name-->
+            </a>
+
+        </div>
+
+        </div><!--End of logo-->
+        <!--<div id="nav1">
+
+            <section class="sub-headername">
+                <h3 class="headername">News</h3>
+                <nav class="sub-navigation_group">
+
+
+
+                    <p><a href="Center.html#section">New Games</a></p>
+                    <p><a href="">PC</a></p>
+                    <p><a href="">Mac</a></p>
+                    <p><a href="">Playstation 4</a></p>
+                    <p><a href="">Xbox One</a></p>
+
+
+
+
+                </nav>
+            </section>
+        </div>-->
+        <!---------------------------------- Slide bar -------------------------------------------------------->
+
+        <style>
+            nav {
+                position: fixed;
+                left: -20em;
+                top: 0;
+                bottom: 0;
+                background-color: orange;
+                border-right: 5px solid orange;
+                box-shadow: 5px 0 rgba(0, 0, 0, 0);
+                z-index: 1;
+                cursor: pointer;
+                margin-top: 160px;
+                margin-bottom: 160px;
+            }
+
+                nav:after {
+                    position: absolute;
+                    content: '  ';
+                    width: 0;
+                    height: 0;
+                    right: -30px;
+                    top: 50%;
+                    border-width: 10px 10px;
+                    border-style: solid;
+                    border-color: transparent transparent transparent orange;
+                }
+
+                nav ul {
+                    width: 15em;
+                    list-style-type: none;
+                    font-size: 20px;
+                }
+
+                article,
+                article:after,
+                nav,
+                nav * {
+                    transition: all 1000ms ease;
+                }
+
+                    nav:hover {
+                        left: 0;
+                    }
+
+                        nav:hover ~ article:after {
+                            left: 60%;
+                        }
+
+                    nav li {
+                        color: white;
+                        padding: 5%;
+                    }
+        </style>
+        <nav>
+
+            <section class="sub-headername">
+                <h3 class="headername">News</h3>
+            </section>
+
+            <ul>
+
+                <li><a href="newsgames1#section">New Games</a></li>
+                <li><a href="">PC</a></li>
+                <li><a href="">Playstation 4</a></li>
+                <li><a href="">Xbox One</a></li>
+
+            </ul>
+        </nav>
+
+
+
+
+
+        <!-------------------------------------------------------------------------------->
+
+        <div id="section3">
+            <h3 class="destiny">Destiny</h3>
+            <img src="http://s.cdon.com/media-dynamic/images/content/150616-destiny-sp-240-cm.jpg" alt="Destiny" />
+            <iframe hspace="18" width="420" height="240" src="https://www.youtube.com/embed/9ZyQK6kUdWQ" frameborder="0" allowfullscreen></iframe>
+            <h4 class="Info">
+                From the ruins of humanity's past, Guardians rise. To defend our home. To explore our lost worlds. To give us hope.
+
+                Destiny is a next generation first person shooter, with rich cinematic storytelling set in huge worlds to explore. Create and customize your Guardian. Defeat your enemies. Become Legend in intense cooperative, competitive, and innovative public gameplay modes.
+            </h4>
+        </div>
+
+
+
+</body>
+
+
+</html>
