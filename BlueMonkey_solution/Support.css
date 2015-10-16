@@ -3,6 +3,9 @@
     
 }
 
+#googleMap{
+    float:right;
+}
     ul {
     list-style-type: none;
     margin: 0;
@@ -16,7 +19,8 @@
 }
 
     #t{
-        color:yellow;
+        color:lightskyblue;
+        font-family: Broadway;
         margin: 0 auto;
     }
  

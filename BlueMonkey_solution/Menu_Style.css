@@ -1,6 +1,6 @@
 body{
     align-content:center;
-    background-color:#ffffff;
+    background-color:transparent;
     width: 750px;
 }
 
@@ -24,7 +24,7 @@ h1{
 }
 
 #menu a {
-    background-color:#fbf600;
+    background-color:#transparent;
     color: white;
     font-family: Arial;
     padding: 10px 40px;
