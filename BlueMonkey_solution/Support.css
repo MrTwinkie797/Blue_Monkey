@@ -1,0 +1,26 @@
+﻿body
+{
+    
+}
+
+#googleMap{
+    float:right;
+}
+    ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+    a {
+    display: block;
+    width: 60px;
+    color: yellow;
+    background-color: transparent;
+}
+
+    #t{
+        color:lightskyblue;
+        font-family: Broadway;
+        margin: 0 auto;
+    }
+ 

@@ -6,14 +6,34 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{00999418-B84E-4625-AC82-8B0A00B1F846}"
 	ProjectSection(SolutionItems) = preProject
 		about.html = about.html
+		Gaming.html = Gaming.html
+		Gaming_Style.css = Gaming_Style.css
 		index.html = index.html
+		Long-Sleeve.html = Long-Sleeve.html
 		Menu_Style.css = Menu_Style.css
+		news1.html = news1.html
+		news1style.css = news1style.css
+		newsgames1.html = newsgames1.html
+		Shop.html = Shop.html
 		style.css = style.css
+		Support.css = Support.css
 		Support.html = Support.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IMG", "IMG", "{10C5A5AA-35A2-4B55-B3F5-E0AFA0BF8378}"
+	ProjectSection(SolutionItems) = preProject
+		IMG\backgroundpicture.png = IMG\backgroundpicture.png
+		IMG\Blue Monkey.png = IMG\Blue Monkey.png
+		hangman.jpg = hangman.jpg
+		quiz.jpg = quiz.jpg
+		work.jpg = work.jpg
 	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{10C5A5AA-35A2-4B55-B3F5-E0AFA0BF8378} = {00999418-B84E-4625-AC82-8B0A00B1F846}
 	EndGlobalSection
 EndGlobal
