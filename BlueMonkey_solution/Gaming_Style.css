@@ -2,6 +2,16 @@
   
 }
 
+#games_title{
+    border: 0;
+    margin-top: -70px;
+
+}
+
+#p{
+    color: yellow;
+    font-size: 20px;
+}
 h1{
     color: lightskyblue;
     font-family: Broadway;

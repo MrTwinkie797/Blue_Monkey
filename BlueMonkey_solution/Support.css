@@ -11,6 +11,12 @@
     a {
     display: block;
     width: 60px;
-    background-color: blue;
+    color: yellow;
+    background-color: transparent;
 }
+
+    #t{
+        color:yellow;
+        margin: 0 auto;
+    }
  
