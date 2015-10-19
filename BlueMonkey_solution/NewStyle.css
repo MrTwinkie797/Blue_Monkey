@@ -18,8 +18,15 @@
      
 }
 
+#News_title{
+    color:lightskyblue;
+    margin-top:-70px;
+    margin-bottom:70px;
+
+}
+
 a:hover {
-    background-color: white;
+    background-color: transparent;
 }
 
 
