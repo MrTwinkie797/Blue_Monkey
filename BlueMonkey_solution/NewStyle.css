@@ -1,0 +1,163 @@
+﻿
+#games_title{
+    border: 0;
+    margin-top: -70px;
+
+}
+
+
+
+
+#section3 {
+    width:700px;
+    box-shadow: 0 0 50px 0 #808080;
+    float:left;
+    padding:20px;
+    margin-top: 160px;
+    margin-left: 150px;
+     
+}
+
+#News_title{
+    color:lightskyblue;
+    margin-top:-70px;
+    margin-bottom:70px;
+
+}
+
+a:hover {
+    background-color: transparent;
+}
+
+
+
+
+
+
+
+/*------------------*/
+
+
+.content-1 {
+    display: block;
+    float: left;
+    width: 720px;
+    height: 283px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    box-shadow: 0 0 50px 0 #808080;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+
+.title-content-1 {
+    display: block;
+    float: left;
+    width: 720px;
+    height: 40px;
+    margin-left: 0px;
+    box-shadow: 0 0 50px 0 #808080;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.title-content-1 h1 {
+    color: #F2AF19;
+    font-size: 22px;
+    font-weight: 100;
+    font-family: Arial,sans-serif;
+    margin-left: 10px;
+    padding-left: 30px;
+    background-repeat: no-repeat;
+    background-position: left 0px;
+}
+
+
+
+.list_carousel {
+    margin-left: 20px;
+}
+
+.clearfix {
+    float: none;
+    clear: both;
+}
+
+a, a:link, a:active, a:visited {
+    color: #0050b4;
+    text-decoration: none;
+}
+.leftarrow {
+    float: left;
+    margin-left: -18px;
+    margin-top: 90px;
+    z-index: 1;
+    position: absolute;
+}
+
+
+.rightarrow {
+    float: left;
+    margin-left: 657px;
+    margin-top: 90px;
+    z-index: 1;
+    position: absolute;
+}
+
+
+.list_carousel ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: block;
+}
+user agent stylesheetul, menu, dir {
+    display: block;
+    list-style-type: disc;
+}
+/*_______ LIST ___________*/
+#list1 {
+    width: 140px;
+    height: 210px;
+    margin: 7px;
+    margin-right: 5px;
+    display: block;
+    float: left;
+}
+
+#list2 {
+    width: 140px;
+    height: 210px;
+    margin: 7px;
+    margin-right: 5px;
+    display: block;
+    float: left;
+}
+
+#list3 {
+    width: 140px;
+    height: 210px;
+    margin: 7px;
+    margin-right: 5px;
+    display: block;
+    float: left;
+}
+
+#list4 {
+    width: 140px;
+    height: 210px;
+    margin: 7px;
+    margin-right: 5px;
+    display: block;
+    float: left;
+}
+
+user agent stylesheetli {
+    display: list-item;
+}
+/*-----------------------------------------*/
+
+
